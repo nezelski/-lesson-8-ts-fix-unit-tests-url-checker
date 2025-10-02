@@ -10,7 +10,7 @@ describe('LinkChecker', () => {
 
     test('should return true for valid URL with https', () => {
         expect(linkChecker.isValidUrl('https://www.example.com')).toBe(true);
-    })
+    })sdfdf
 
     // FIXME
     test('should return true for valid URL with http', () => {

@@ -9,12 +9,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "This project contains a simple TypeScript class `LinkChecker` for validating URLs. It uses regular expressions to verify whether a given string is a well-formed URL. The project also includes a test suite written with Jest to ensure the correctness of the `LinkChecker` class.",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "jest": "^29.7.0",
     "prettier": "^3.3.3",
     "ts-jest": "^29.2.3",
     "typescript": "^5.5.3"
+  },
+  "directories": {
   }
 }
